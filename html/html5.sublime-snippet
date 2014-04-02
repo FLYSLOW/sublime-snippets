@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<!doctype html>
+<html>
+<head>
+	<meta charset="${1:utf-8}">
+	<title>$2</title>
+</head>
+<body>
+	$3
+</body>
+</html>
+]]></content>
+	<tabTrigger>h5</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>
