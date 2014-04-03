@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<% _.${1:each}(${2:collection}, function(${3:element}, ${4:index}) { %>
+	$5
+<% }); %>
+]]></content>
+	<tabTrigger>_loop</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>

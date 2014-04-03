@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<% for (var i = 0; i < ${1:array}.length; i++) { %>
+	$2
+<% } %>
+]]></content>
+	<tabTrigger>_for</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>

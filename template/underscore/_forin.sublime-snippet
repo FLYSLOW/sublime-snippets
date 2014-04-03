@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<% for (var key in ${1:object}) { %>
+	$2
+<% } %>
+]]></content>
+	<tabTrigger>_forin</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>

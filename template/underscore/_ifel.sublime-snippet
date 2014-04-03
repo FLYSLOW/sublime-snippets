@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<% if ($1) { %>
+	$2
+<% } else { %>
+	$3
+<% } %>
+]]></content>
+	<tabTrigger>_ifel</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>
