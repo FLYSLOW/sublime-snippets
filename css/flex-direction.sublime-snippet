@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+-webkit-flex-direction: $1;
+-moz-flex-direction: $1;
+-ms-flex-direction: $1;
+-o-flex-direction: $1;
+flex-direction: $1;
+]]></content>
+    <tabTrigger>flex-direction-compatible</tabTrigger>
+    <!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+display: -webkit-flex;
+display: -moz-flex;
+display: -ms-flex;
+display: -o-flex;
+display: flex;
+]]></content>
+    <tabTrigger>display-flex-compatible</tabTrigger>
+    <!-- <scope>source.python</scope> -->
+</snippet>

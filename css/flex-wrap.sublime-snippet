@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+-webkit-flex-wrap: $1;
+-moz-flex-wrap: $1;
+-ms-flex-wrap: $1;
+-o-flex-wrap: $1;
+flex-wrap: $1;
+]]></content>
+    <tabTrigger>flex-wrap-compatible</tabTrigger>
+    <!-- <scope>source.python</scope> -->
+</snippet>

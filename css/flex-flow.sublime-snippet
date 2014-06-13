@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+-webkit-flex-flow: $1;
+-moz-flex-flow: $1;
+-ms-flex-flow: $1;
+-o-flex-flow: $1;
+flex-flow: $1;
+]]></content>
+    <tabTrigger>flex-flow-compatible</tabTrigger>
+    <!-- <scope>source.python</scope> -->
+</snippet>

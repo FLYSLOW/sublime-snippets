@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+-webkit-box-orient: $1;
+-moz-box-orient: $1;
+-ms-box-orient: $1;
+-o-box-orient: $1;
+box-orient: $1;
+]]></content>
+    <tabTrigger>box-orient-compatible</tabTrigger>
+    <!-- <scope>source.python</scope> -->
+</snippet>

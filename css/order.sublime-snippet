@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+-webkit-order: $1;
+-moz-order: $1;
+-ms-order: $1;
+-o-order: $1;
+order: $1;
+]]></content>
+    <tabTrigger>order-compatible</tabTrigger>
+    <!-- <scope>source.python</scope> -->
+</snippet>
